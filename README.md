@@ -4,7 +4,9 @@ JUnit Matchers
 This project's purpose is to function as a best practices guide to writing JUnit tests
 whilst providing a comprehensive set of examples for using Hamcrest matchers with tests.
 
-Hamcrest Overview: http://code.google.com/p/hamcrest/wiki/Tutorial
+* Hamcrest Overview: http://code.google.com/p/hamcrest/wiki/Tutorial
+* CoreMatcher API - http://junit.org/javadoc/4.9/org/hamcrest/CoreMatchers.html
+* Matchers API - http://hamcrest.org/JavaHamcrest/javadoc/1.3/org/hamcrest/Matchers.html
 
 Static Imports Required
 -----------------------
