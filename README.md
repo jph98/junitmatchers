@@ -1,5 +1,5 @@
 JUnitRecipes
-#############
+============
 
 This project's purpose is to function as a best practices guide to writing JUnit tests
 whilst providing a comprehensive set of examples for using Hamcrest matchers with tests.
